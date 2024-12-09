@@ -1,0 +1,8 @@
+[scrolling]
+history = 10000
+multiplier = 3
+
+
+[font]
+normal = { family = "IosevkaTerm NFM", style = "Medium" }
+size = 11
